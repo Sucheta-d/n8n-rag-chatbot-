@@ -32,4 +32,4 @@ Google Drive → Embeddings → Pinecone → AI Agent
 4. Start chat trigger
 
 ## Files
-- rag-chatbot.json
+- My workflow.json
